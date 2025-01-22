@@ -6,4 +6,4 @@ services:
       - 'POSTGRES_PASSWORD=secret'
       - 'POSTGRES_USER=next-step'
     ports:
-      - '5432:5432'
+      - '7654:5432'
